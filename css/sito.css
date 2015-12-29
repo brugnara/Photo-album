@@ -1,0 +1,23 @@
+.row, .container{
+	text-align: center;
+}
+.row{
+	margin-top: 1%;
+}
+.foto, .immagine{
+	display: none;
+}
+.immagine{
+	padding-top: 2%;
+	border-style: groove;
+}
+.img-responsive{
+	display: inline;
+}
+a{
+	text-decoration: none;
+}
+.thumbnail{
+	height: 220px;
+	width: 280px;
+}
